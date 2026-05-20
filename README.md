@@ -7,9 +7,9 @@ O objetivo é fazer 60 atividades de 3 listas separadas por complexidade é dese
 
  [📏 01_EstruturaSequencial (~20 exercícios): * Foco: Uso de let , operadores matemáticos e Number(prompt())](Pasta_1)
 ---------------
- [🔁​ 02_EstruturaDeDecisao (~20 exercícios): * Foco: Substituir o if/else do C pela sintaxe JS.](Pasta_1)
+ [🔁​ 02_EstruturaDeDecisao (~20 exercícios): * Foco: Substituir o if/else do C pela sintaxe JS.](Pasta_2)
 ---------------
-[⚙️​ 03_EstruturaDeRepeticao (~20 exercícios): * Foco: Implementação de laços while, do...while e for.](Pasta_1)
+[⚙️​ 03_EstruturaDeRepeticao (~20 exercícios): * Foco: Implementação de laços while, do...while e for.](Pasta_3)
 ---------------
  ## 🚀 Como executar.
 
